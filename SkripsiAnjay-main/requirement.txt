@@ -1,0 +1,12 @@
+streamlit
+deepface
+insightface
+onnxruntime
+tf-keras
+mtcnn
+opencv-python-headless
+pandas
+numpy
+pillow
+scikit-learn
+werkzeug
